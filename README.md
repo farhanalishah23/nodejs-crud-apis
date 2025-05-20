@@ -53,4 +53,4 @@ Follow these steps to set up and run the project on your local machine:
 ### 1. **Clone the repository**:
    First, clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/crud-api-node-express-mongo.git
+   git clone https://github.com/farhanalishah23/nodejs-crud-apis.git
